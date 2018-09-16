@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "C:\\Users\\Дмитрий\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+    "python.unitTest.pyTestArgs": [
+        "youtube"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./2week",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.promptToConfigure": false
+}

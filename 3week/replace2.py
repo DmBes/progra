@@ -1,0 +1,4 @@
+s = input(str())
+while s.find('@') != -1:
+    s = s.replace('@', '')
+print(s)

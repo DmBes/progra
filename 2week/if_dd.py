@@ -1,0 +1,8 @@
+n = int(input())
+k = 0
+f = 0
+while n != 0:
+    if n % 2 == 0:
+        k += 1
+    n = int(input())
+print(k)
